@@ -1,7 +1,15 @@
 # <center> LEOTP: An Information-centric Transport Layer Protocol for LEO Satellite Networks </center>
-<pre style="background-color:inherit;padding: 0px;" id="bibtex-info">@inproceedings{Wizadwongsa2021NeX,
-    author = {Wizadwongsa, Suttisak and Phongthawee, Pakkapon and Yenphraphai, Jiraphon and Suwajanakorn, Supasorn},
-    title = {NeX: Real-time View Synthesis with Neural Basis Expansion},
-    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 
-    year = {2021},
-}</pre>
+<div class="columns author is-mobile">
+          <div class="column">
+            Suttisak Wizadwongsa*
+          </div>
+          <div class="column">
+            Pakkapon Phongthawee*
+          </div>
+          <div class="column">
+            Jiraphon Yenphraphai*
+          </div>
+          <div class="column">
+            <a href="https://supasorn.com" target="_blank" style="color:#4a4a4a">Supasorn Suwajanakorn</a>
+          </div>
+        </div>
