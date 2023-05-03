@@ -3,3 +3,7 @@
 <div align='center'> <sup>a</sup> Wangxuan Institute of Computer Technology, Peking University, Beijing, China </div>
 <div align='center'> <sup>b</sup> Department of Computer Science and Technology, Tsinghua University, Beijing, China </div>
 <div align='center'> <b> ICDCS 2023 </b> </div>
+## Abstract 
+Low Earth orbit (LEO) satellite networks have attracted extensive research due to their potential to provide high-quality Internet access services. However, the existing TCP variants, which are designed for terrestrial networks, can hardly work in LEO satellite networks with characteristics such as error-prone, bandwidth variations, and link switching. To address these challenges, in this paper we present a new information-centric transport layer protocol LEOTP to guarantee reliable, high-throughput, and low-latency data transmission in LEO satellite networks. It leverages the idea of Information-Centric Networking (ICN) with a Request-Response transmission model and in-network caching. The connectionless transmission paradigm in LEOTP makes it resilient to dynamic topology changes. The caches equipped in intermediate nodes help to recover packet loss while the hop-by-hop congestion control mechanism provides a fast reaction to time-varying network conditions. We evaluate the performance of LEOTP in emulated Starlink constellation, which shows that it increases the throughput by 8%-12% with 40%-60% delay reduction compared with the state-of-the-art TCP variants in the transcontinental data transmission.
+## Code
+## Paper
