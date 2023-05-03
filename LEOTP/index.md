@@ -1,5 +1,5 @@
 # <center> LEOTP: An Information-centric Transport Layer Protocol for LEO Satellite Networks </center>
-<div class="columns author is-mobile">
+<div align='center'>
           <div class="column">
             Suttisak Wizadwongsa*
           </div>
