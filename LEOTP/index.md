@@ -14,4 +14,8 @@ This is the code for LEOTP. [[code]](https://github.com/jl99888/LEOTP)
 
 ## Paper
 
-Here is the paper. [[paper]](./LEOTP_icdcs_cr_v2.pdf)
+This is the camera-ready version paper. [[paper]](./LEOTP_icdcs_cr_v2.pdf)
+
+## Figures
+
+To be supplemented.
