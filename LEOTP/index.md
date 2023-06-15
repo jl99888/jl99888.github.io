@@ -12,7 +12,7 @@ Low Earth orbit (LEO) satellite networks have attracted extensive research due t
 
 Will be published soon.
 
-<div style=dislay:none> This is the code for LEOTP. [[code]](https://github.com/jl99888/LEOTP) </div>
+[comment]: # (This is the code for LEOTP. [[code]](https://github.com/jl99888/LEOTP) )
 
 ## Paper
 
