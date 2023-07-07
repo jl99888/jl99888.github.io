@@ -32,7 +32,7 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
         <td><center><img src="./figures/fig_midnode.png">Fig. 7: The key modules in a Midnode.</center></td>
     </tr>
     <tr>
-        <td><center><img src="./figures/fig_SHR.png">Fig. 8: The hybrid retransmission mechanism</center></td>
+        <td><center><img src="./figures/fig_retran.png">Fig. 8: The hybrid retransmission mechanism</center></td>
         <td ><center><img src="./figures/fig_congestion_control.png">Fig. 9: Congestion control in one hop.</center> </td>
     </tr>
 </table>
