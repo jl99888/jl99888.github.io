@@ -26,8 +26,6 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 
 ## Figures
 
-[[Fig. 1(a): Bandwidth distribution in Starlink]](./)
-[[Fig. 1(b): Queueing due to bandwidth variations]]
-[[Fig. 2: The throughput degradtion in error-prone links]] 
+## Comparisions
 
 ## More about our lab
