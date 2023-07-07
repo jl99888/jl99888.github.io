@@ -27,8 +27,8 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 ## Figures
 
 <figure>
-  <img src="./figures/fig_arch_new.png" width = 400/><figcaption>The overview of LEOTP architecture</figcaption>
-  <img src="./figures/fig_midnode.png" width = 400/><figcaption>The keymodules in a Midnode</figcaption>
+  <img src="./figures/fig_arch_new.png" width = 300/><figcaption>The overview of LEOTP architecture</figcaption>
+  <img src="./figures/fig_midnode.png" width = 300/><figcaption>The keymodules in a Midnode</figcaption>
 </figure>
 
 ## Comparisions
