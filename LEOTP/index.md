@@ -21,12 +21,16 @@ This is the code for LEOTP. [[code]](https://github.com/jl99888/LEOTP)
 Will be published soon.
 
 <!--
-This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
+[[camera-ready version paper]](./LEOTP_icdcs.pdf)
 -->
 
 ## Slides
 
 Will be published soon.
+
+<!--
+[[slides]](./LEOTP_ICDCS_pre.pdf)
+-->
 
 ## Figures
 
