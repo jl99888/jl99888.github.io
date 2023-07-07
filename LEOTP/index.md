@@ -28,10 +28,9 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 
 <table>
     <tr>
-        <td ><center><img src="./figures/fig_arch_new.png" >图1  范冰冰 </center></td>
-        <td ><center><img src="./figures/fig_arch_new.png"  >图2 范冰冰</center></td>
+        <td><center><img src="./figures/fig_arch_new.png">图1  范冰冰 </center></td>
+        <td><center><img src="./figures/fig_arch_new.png">图2 范冰冰</center></td>
     </tr>
-
     <tr>
         <td><center><img src="./figures/fig_arch_new.png" >图3 高圆圆</center></td>
         <td ><center><img src="./figures/fig_arch_new.png"  >图4 高圆圆</center> </td>
