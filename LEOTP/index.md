@@ -28,12 +28,12 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 
 <table>
     <tr>
-        <td><center><img src="./figures/fig_arch_new.png">图1  范冰冰 </center></td>
-        <td><center><img src="./figures/fig_arch_new.png">图2 范冰冰</center></td>
+        <td><center><img src="./figures/fig_arch_new.png">Fig. 6: The overview of LEOTP architecture.</center></td>
+        <td><center><img src="./figures/fig_midnode.png">Fig. 7: The key modules in a Midnode.</center></td>
     </tr>
     <tr>
-        <td><center><img src="./figures/fig_arch_new.png" >图3 高圆圆</center></td>
-        <td ><center><img src="./figures/fig_arch_new.png"  >图4 高圆圆</center> </td>
+        <td><center><img src="./figures/fig_SHR.png">Fig. 8: The hybrid retransmission mechanism</center></td>
+        <td ><center><img src="./figures/fig_congestion_control.png">Fig. 9: Congestion control in one hop.</center> </td>
     </tr>
 </table>
 
