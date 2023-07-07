@@ -1,6 +1,3 @@
-.caption{
-  text-align: center;
-}
 # <center> LEOTP: An Information-centric Transport Layer Protocol for LEO Satellite Networks </center>
 <div align='center'> Li Jiang<sup>a</sup>, Yihang Zhang<sup>a</sup>, Jinyu Yin<sup>a</sup>, Xinggong Zhang<sup>a</sup>, Bin Liu<sup>b</sup> </div>
 <div align='center'> <sup>a</sup> Wangxuan Institute of Computer Technology, Peking University, Beijing, China </div>
@@ -30,8 +27,8 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 ## Figures
 
 <figure>
-  <img src="./figures/fig_arch_new.png" width = 400/>
-  <figcaption class='caption'><div>The overview of LEOTP architecture</div></figcaption>
+  <img src="./figures/fig_arch_new.png" width = 400/><figcaption>The overview of LEOTP architecture</figcaption>
+  <img src="./figures/fig_midnode.png" width = 400/><figcaption>The keymodules in a Midnode</figcaption>
 </figure>
 
 ## Comparisions
