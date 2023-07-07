@@ -27,7 +27,7 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 ## Figures
 
 <figure>
-  <img src="./figures/fig_arch_new.png" width=200/>
+  <img src="./figures/fig_arch_new.png" width=400/>
 </figure>
 
 ## Comparisions
