@@ -27,8 +27,8 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 ## Figures
 
 <figure>
-  <img src="./figures/fig_arch_new.png">
-  <figcaption text-align=center>The overview of LEOTP architecture</figcaption>
+  <img src="./figures/fig_arch_new.png" width = 400/>
+  <figcaption text-align='center'>The overview of LEOTP architecture</figcaption>
 </figure>
 
 ## Comparisions
