@@ -43,6 +43,6 @@ Will be published soon.
 
 ## Comparisions
 
-[[Fig. 10: The distribution of the retransmitted packets’ OWD in lossy link.]](./figures)    [[see data]](./logs/a.txt)
+Fig. 10:[[The distribution of the retransmitted packets’ OWD in lossy link]](./figures)    [[Data]](./logs/a.txt)
 
 ## More works from our lab
