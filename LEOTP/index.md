@@ -24,6 +24,10 @@ Will be published soon.
 This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 -->
 
+## Slides
+
+Will be published soon.
+
 ## Figures
 
 <table>
@@ -39,4 +43,6 @@ This is the camera-ready version paper. [[paper]](./LEOTP_icdcs.pdf)
 
 ## Comparisions
 
-## More about our lab
+[[Fig. 10: The distribution of the retransmitted packets’ OWD in lossy link.]](./figures)    [[see data]](./logs/a.txt)
+
+## More works from our lab
