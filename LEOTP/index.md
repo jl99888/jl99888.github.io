@@ -47,25 +47,25 @@ Will be published soon.
 
 ## Comparisions
 
-Fig. 10:The distribution of the retransmitted packets’ OWD in lossy link.        [[Data]](./logs/a.txt)
+Fig. 10:The distribution of the retransmitted packets’ OWD in lossy link.        [[Data]](./logs/retran_delay_test)
 
-Fig. 11: The relation of loss rate and the traffic sent by sender for an 100MB file.        [[Data]](./logs/a.txt)
+Fig. 11: The relation of loss rate and the traffic sent by sender for an 100MB file.        [[Data]](./logs/retran_traffic_test)
 
-Fig. 12: The relation of loss rate and throughput.        [[Data]](./logs/a.txt)
+Fig. 12: The relation of loss rate and throughput.        [[Data]](./logs/loss_test)
 
-Fig. 13: The relation of topology change frequency and throughput.        [[Data]](./logs/a.txt)
+Fig. 13: The relation of topology change frequency and throughput.        [[Data]](./logs/link_switch_test)
 
-Fig. 14: Throughput-OWD trade-off under bandwidth fluctuations.         [[Data]](./logs/a.txt)
+Fig. 14: Throughput-OWD trade-off under bandwidth fluctuations.         [[Data]](./logs/bandwidht_fluctuation_test)
 
-Fig. 15: Intra-protocol fairness under same RTT and different RTT.        [[Data]](./logs/a.txt)
+Fig. 15: Intra-protocol fairness under same RTT and different RTT.        [[same RTT]](./logs/fairness_same_rtt)    [[different RTT]](./logs/fairness_diff_rtt)
 
-Fig. 16: Cumulative distribution graph of OWD and throughput in Beijing-Shanghai link without ISLs.    [[Data]](./logs/a.txt)
+Fig. 16: Cumulative distribution graph of OWD and throughput in Beijing-Shanghai link without ISLs.    [[Data]](./logs/starlink_without_isl)
 
-Fig. 17: Cumulative distribution graph of OWD and throughput in Beijing-New York link with ISLs.        [[Data]](./logs/a.txt)
+Fig. 17: Cumulative distribution graph of OWD and throughput in Beijing-New York link with ISLs.        [[Data]](./logs/starlink_with_isl)
 
-Fig. 18: Average OWD and throughput in different city pair links with ISLs.        [[Data]](./logs/a.txt)
+Fig. 18: Average OWD and throughput in different city pair links with ISLs.        [[Data]](./logs/starlink_with_isl)
 
-TABLE II: The result of the ablation experiment.        [[Data]](./logs/a.txt)
+TABLE II: The result of the ablation experiment.        [[Data]](./logs/ablation_test)
 
 ## More works from our lab
 
