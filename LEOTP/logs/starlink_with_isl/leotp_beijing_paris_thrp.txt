@@ -1,0 +1,1221 @@
+    main@intcp_clie  117| entering intcpc
+
+    main@intcp_clie  118| client ip:10.0.1.1
+
+  update@  ikcp.cpp 1979| 1641101258.    0 0 C 0.2 ↑0.1 ↓0.0+0.00 iQ 1 iB 9290 rB 0 T 0 D 0 Hthrp 0.00
+     1s 0.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641102259.  134 20 C 24.1 ↑13.9 ↓0.5+0.00 iQ 1 iB 18529 rB 0 T 0 D 0 Hthrp 1.74
+     2s 0.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641103260.  124 20 C 100.1 ↑58.0 ↓2.8+0.00 iQ 0 iB 20014 rB 0 T 0 D 0 Hthrp 3.07
+     3s 2.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641104262.  123 20 C 99.1 ↑57.5 ↓6.1+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.97
+     4s 6.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641105263.  152 20 C 97.6 ↑56.6 ↓8.3+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.41
+     5s 8.35 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641106264.  127 20 C 96.1 ↑55.7 ↓8.7+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.53
+     6s 8.71 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641107265.  152 20 C 94.4 ↑54.7 ↓9.3+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.58
+     7s 9.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641108266.  141 20 C 92.8 ↑53.8 ↓8.8+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 10.10
+     8s 8.77 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641109267.  141 20 C 91.0 ↑52.8 ↓9.9+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 10.17
+     9s 9.90 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641110269.  141 20 C 89.3 ↑51.8 ↓9.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.53
+    10s 9.08 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641111270.  141 20 C 87.4 ↑50.7 ↓9.7+0.00 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 8.98
+    11s 9.73 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641112271.  144 20 C 85.5 ↑49.6 ↓9.5+0.00 iQ 1 iB 19998 rB 0 T 0 D 0 Hthrp 8.98
+    12s 9.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641113272.  133 20 C 83.6 ↑48.5 ↓9.3+0.00 iQ 0 iB 20019 rB 0 T 2 D 0 Hthrp 8.98
+    13s 9.25 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641114273.  162 20 C 81.7 ↑47.4 ↓9.6+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 9.10
+    14s 9.61 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641115275.  140 20 C 79.8 ↑46.3 ↓8.8+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 8.42
+    15s 8.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641116277.  142 20 C 77.8 ↑45.1 ↓9.4+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.57
+    16s 9.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641117278.  144 20 C 75.9 ↑44.0 ↓8.4+0.00 iQ 0 iB 19999 rB 0 T 2 D 0 Hthrp 7.68
+    17s 8.40 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641118279.  140 20 C 73.9 ↑42.8 ↓8.7+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.97
+    18s 8.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641119280.  154 20 C 72.1 ↑41.8 ↓8.0+0.00 iQ 0 iB 20014 rB 0 T 1 D 0 Hthrp 7.30
+    19s 7.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641120282.  139 20 C 70.2 ↑40.7 ↓7.7+0.00 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 8.03
+    20s 7.65 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641121283.  198 20 C 68.4 ↑39.7 ↓7.5+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.14
+    21s 7.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641122285.  152 20 C 66.8 ↑38.7 ↓6.4+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 7.30
+    22s 6.44 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641123286.  148 20 C 65.1 ↑37.8 ↓6.7+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 6.42
+    23s 6.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641124287.  155 20 C 63.7 ↑36.9 ↓5.2+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.35
+    24s 5.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641125288.  243 20 C 62.7 ↑36.4 ↓3.7+0.07 iQ 0 iB 20000 rB 0 T 3 D 0 Hthrp 4.82
+    25s 3.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641126289.  169 20 C 61.4 ↑35.6 ↓4.7+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 5.05
+    26s 4.74 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641127290.  131 20 C 60.0 ↑34.8 ↓5.1+0.00 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 6.73
+    27s 5.13 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641128291.  175 20 C 58.3 ↑33.8 ↓5.9+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 5.63
+    28s 5.86 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641129292.  155 20 C 56.7 ↑32.9 ↓5.5+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 6.73
+    29s 5.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641130293.  156 20 C 54.6 ↑31.7 ↓6.7+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.96
+    30s 6.68 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641131294.  158 20 C 52.7 ↑30.6 ↓6.1+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.63
+    31s 6.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641132295.  146 20 C 50.4 ↑29.2 ↓6.9+0.00 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 7.85
+    32s 6.95 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641133296.  153 20 C 48.1 ↑27.9 ↓6.9+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 6.96
+    33s 6.91 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641134297.  133 20 C 45.5 ↑26.4 ↓7.1+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 7.85
+    34s 7.13 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641135298.  169 20 C 42.5 ↑24.6 ↓7.7+0.01 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.66
+    35s 7.70 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641136299.  141 20 C 39.5 ↑22.9 ↓7.2+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.97
+    36s 7.25 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641137300.  148 20 C 35.8 ↑20.8 ↓8.3+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.57
+    37s 8.34 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641138301.  152 20 C 32.0 ↑18.6 ↓7.7+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.70
+    38s 7.67 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641139303.  143 20 C 35.0 ↑20.3 ↓8.5+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 10.09
+    39s 8.45 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641140304.  149 20 C 34.2 ↑19.8 ↓8.3+0.00 iQ 0 iB 20011 rB 0 T 1 D 0 Hthrp 7.86
+    40s 8.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641141305.  136 20 C 39.3 ↑22.8 ↓8.5+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.53
+    41s 8.49 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641142306.  159 20 C 35.3 ↑20.5 ↓8.9+0.01 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 9.10
+    42s 8.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641143307.  143 20 C 40.8 ↑23.7 ↓8.3+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 10.66
+    43s 8.28 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641144309.  162 20 C 37.2 ↑21.6 ↓8.2+0.00 iQ 0 iB 20006 rB 0 T 2 D 0 Hthrp 9.53
+    44s 8.17 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641145310.  143 20 C 41.9 ↑24.3 ↓8.5+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 8.41
+    45s 8.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641146311.  160 20 C 42.6 ↑24.7 ↓8.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.31
+    46s 8.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641147312.  157 20 C 42.4 ↑24.6 ↓8.5+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.74
+    47s 8.49 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641148313.  136 20 C 43.0 ↑25.0 ↓8.5+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 9.53
+    48s 8.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641149314.  142 20 C 42.8 ↑24.8 ↓8.6+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.41
+    49s 8.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641150316.  143 20 C 42.5 ↑24.7 ↓8.5+0.00 iQ 2 iB 19998 rB 0 T 0 D 0 Hthrp 10.09
+    50s 8.55 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641151317.  141 20 C 42.3 ↑24.5 ↓8.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.68
+    51s 8.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641152319.  170 20 C 40.0 ↑23.2 ↓8.3+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 7.17
+    52s 8.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641153320.  138 20 C 40.4 ↑23.4 ↓9.2+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 9.11
+    53s 9.22 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641154321.  148 20 C 37.3 ↑21.6 ↓9.4+0.00 iQ 0 iB 20010 rB 0 T 1 D 0 Hthrp 8.20
+    54s 9.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641155322.  137 20 C 38.1 ↑22.1 ↓9.4+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 9.64
+    55s 9.44 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641156324.  165 20 C 39.1 ↑22.7 ↓9.7+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 8.05
+    56s 9.68 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641157326.  137 20 C 35.0 ↑20.3 ↓9.1+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.10
+    57s 9.09 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641158327.  142 20 C 41.2 ↑23.9 ↓9.8+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.10
+    58s 9.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641159328.  143 20 C 37.3 ↑21.6 ↓9.0+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.97
+    59s 8.95 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641160330.  143 20 C 40.4 ↑23.4 ↓9.5+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.57
+    60s 9.54 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641161332.  150 20 C 36.4 ↑21.1 ↓9.1+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+    61s 9.09 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641162333.  148 20 C 37.3 ↑21.6 ↓9.0+0.01 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 10.09
+    62s 9.02 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641163334.  221 20 C 37.6 ↑21.8 ↓6.6+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 0.87
+    63s 6.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641164335.  150 20 C 34.9 ↑20.2 ↓5.5+0.30 iQ 0 iB 20001 rB 0 T 2 D 0 Hthrp 4.24
+    64s 5.49 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641165338.  125 20 C 32.5 ↑18.9 ↓4.8+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 4.28
+    65s 4.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641166339.  136 20 C 32.1 ↑18.6 ↓5.0+0.00 iQ 0 iB 20009 rB 0 T 1 D 0 Hthrp 8.19
+    66s 4.99 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641167340.  128 20 C 30.7 ↑17.8 ↓4.5+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 4.42
+    67s 4.52 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641168341.  115 20 C 28.0 ↑16.2 ↓4.7+0.01 iQ 0 iB 20009 rB 0 T 1 D 0 Hthrp 5.06
+    68s 4.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641169342.  123 20 C 29.2 ↑17.0 ↓4.8+0.01 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 3.36
+    69s 4.76 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641170343.  117 20 C 29.6 ↑17.2 ↓4.8+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 3.75
+    70s 4.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641171344.  119 20 C 26.7 ↑15.5 ↓4.8+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 3.21
+    71s 4.83 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641172345.  129 20 C 30.1 ↑17.5 ↓5.1+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 7.30
+    72s 5.07 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641173346.  117 20 C 27.5 ↑16.0 ↓4.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 2.80
+    73s 4.54 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641174348.  113 20 C 30.2 ↑17.5 ↓5.9+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.97
+    74s 5.92 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641175350.  143 20 C 27.6 ↑16.0 ↓6.4+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.42
+    75s 6.42 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641176351.  144 20 C 27.5 ↑16.0 ↓6.9+0.00 iQ 0 iB 20015 rB 0 T 0 D 0 Hthrp 7.85
+    76s 6.87 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641177352.  142 20 C 24.7 ↑14.3 ↓6.1+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 5.61
+    77s 6.15 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641178353.  140 20 C 24.7 ↑14.3 ↓6.1+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 5.63
+    78s 6.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641179354.  150 20 C 26.3 ↑15.3 ↓5.8+0.01 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 6.42
+    79s 5.82 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641180356.  135 20 C 22.8 ↑13.2 ↓5.2+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 6.17
+    80s 5.20 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641181357.  148 20 C 22.5 ↑13.1 ↓4.8+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 5.61
+    81s 4.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641182359.  376 20 C 22.4 ↑13.0 ↓0.1+0.00 iQ 0 iB 20002 rB 0 T 10 D 0 Hthrp 0.09
+    82s 0.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641183360. 1110 20 C 24.9 ↑14.4 ↓2.0+0.64 iQ 0 iB 20002 rB 0 T 4 D 0 Hthrp 6.17
+    83s 1.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641184361.  163 20 C 23.3 ↑13.5 ↓5.1+0.10 iQ 0 iB 20008 rB 0 T 2 D 0 Hthrp 5.35
+    84s 5.14 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641185363.  148 20 C 26.7 ↑15.5 ↓5.8+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 6.73
+    85s 5.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641186364.  154 20 C 23.6 ↑13.7 ↓6.2+0.00 iQ 0 iB 20002 rB 0 T 2 D 0 Hthrp 5.14
+    86s 6.18 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641187365.  128 20 C 29.1 ↑16.9 ↓6.1+0.01 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 8.41
+    87s 6.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641188367.  155 20 C 28.0 ↑16.2 ↓7.0+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.42
+    88s 7.03 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641189368.  156 20 C 26.1 ↑15.1 ↓6.4+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.73
+    89s 6.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641190369.  147 20 C 31.3 ↑18.2 ↓7.6+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.41
+    90s 7.60 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641191370.  147 20 C 31.5 ↑18.3 ↓7.1+0.00 iQ 0 iB 20010 rB 0 T 0 D 0 Hthrp 6.96
+    91s 7.15 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641192371.  141 20 C 33.6 ↑19.5 ↓7.8+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.41
+    92s 7.76 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641193372.  150 20 C 31.6 ↑18.3 ↓7.9+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 7.17
+    93s 7.87 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641194373.  128 20 C 33.6 ↑19.5 ↓7.9+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.97
+    94s 7.86 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641195374.  152 20 C 36.7 ↑21.3 ↓8.6+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 9.11
+    95s 8.57 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641196376.  147 20 C 32.9 ↑19.1 ↓8.0+0.00 iQ 0 iB 20014 rB 0 T 1 D 0 Hthrp 7.18
+    96s 7.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641197378.  147 20 C 41.2 ↑23.9 ↓9.0+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 8.72
+    97s 9.03 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641198379.  148 20 C 37.6 ↑21.8 ↓8.4+0.00 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 8.03
+    98s 8.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641199381.  142 20 C 36.7 ↑21.3 ↓9.0+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 9.63
+    99s 8.99 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641200382.  145 20 C 36.8 ↑21.4 ↓9.0+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.71
+   100s 9.01 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641201383.  126 20 C 39.0 ↑22.6 ↓8.9+0.00 iQ 0 iB 20003 rB 0 T 2 D 0 Hthrp 10.10
+   101s 8.91 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641202384.  154 20 C 36.9 ↑21.4 ↓9.6+0.01 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 8.97
+   102s 9.57 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641203386.  142 20 C 34.9 ↑20.2 ↓8.8+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 8.97
+   103s 8.78 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641204387.  142 20 C 37.9 ↑22.0 ↓9.8+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.42
+   104s 9.82 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641205389.  142 20 C 38.2 ↑22.2 ↓9.1+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 9.10
+   105s 9.14 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641206390.  146 20 C 41.3 ↑24.0 ↓9.6+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 10.12
+   106s 9.57 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641207391.  148 20 C 38.4 ↑22.3 ↓9.5+0.00 iQ 0 iB 20016 rB 0 T 2 D 0 Hthrp 8.97
+   107s 9.48 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641208392.  134 20 C 39.5 ↑22.9 ↓9.4+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 11.22
+   108s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641209393.  154 20 C 39.6 ↑23.0 ↓9.8+0.01 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.99
+   109s 9.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641210394.  140 20 C 36.5 ↑21.2 ↓9.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 8.56
+   110s 9.07 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641211395.  141 20 C 40.7 ↑23.6 ↓10.0+0.00 iQ 0 iB 20006 rB 0 T 2 D 0 Hthrp 9.10
+   111s 9.98 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641212396.  140 20 C 36.7 ↑21.3 ↓9.2+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 10.09
+   112s 9.21 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641213398.  139 20 C 37.5 ↑21.8 ↓9.5+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 10.65
+   113s 9.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641214400.  145 20 C 38.8 ↑22.5 ↓9.4+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.97
+   114s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641215401.  133 20 C 39.9 ↑23.1 ↓9.1+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 10.09
+   115s 9.11 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641216402.  152 20 C 38.9 ↑22.6 ↓9.6+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 9.10
+   116s 9.63 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641217404.  142 20 C 34.9 ↑20.2 ↓8.7+0.00 iQ 0 iB 20012 rB 0 T 0 D 0 Hthrp 9.22
+   117s 8.70 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641218406.  142 20 C 39.0 ↑22.6 ↓9.4+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 9.11
+   118s 9.39 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641219407.  142 20 C 35.1 ↑20.4 ↓8.7+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.97
+   119s 8.65 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641220408.  140 20 C 36.0 ↑20.9 ↓8.9+0.00 iQ 0 iB 20006 rB 0 T 2 D 0 Hthrp 9.54
+   120s 8.89 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641221409.  145 20 C 35.1 ↑20.4 ↓8.7+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 7.86
+   121s 8.70 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641222410.  135 20 C 34.2 ↑19.9 ↓8.3+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 10.09
+   122s 8.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641223411.  155 20 C 36.3 ↑21.1 ↓8.7+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.42
+   123s 8.69 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641224412.  151 20 C 32.5 ↑18.9 ↓7.7+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.73
+   124s 7.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641225413.  145 20 C 34.6 ↑20.1 ↓8.4+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.29
+   125s 8.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641226414.  150 20 C 30.8 ↑17.9 ↓7.4+0.01 iQ 0 iB 20001 rB 0 T 2 D 0 Hthrp 7.29
+   126s 7.45 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641227415.  145 20 C 32.1 ↑18.6 ↓7.8+0.02 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 7.86
+   127s 7.76 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641228416.  157 20 C 31.4 ↑18.2 ↓7.3+0.00 iQ 0 iB 20010 rB 0 T 0 D 0 Hthrp 8.42
+   128s 7.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641229417.  140 20 C 28.6 ↑16.6 ↓7.0+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 6.98
+   129s 6.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641230418.  174 20 C 28.6 ↑16.6 ↓7.2+0.01 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.66
+   130s 7.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641231419.  154 20 C 26.9 ↑15.6 ↓6.1+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.42
+   131s 6.14 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641232421.  150 20 C 27.1 ↑15.7 ↓6.8+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.73
+   132s 6.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641233422.  158 20 C 25.7 ↑14.9 ↓5.6+0.01 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 5.36
+   133s 5.63 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641234423.  151 20 C 23.9 ↑13.9 ↓5.8+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 6.42
+   134s 5.85 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641235424.  174 20 C 22.2 ↑12.9 ↓5.4+0.01 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 4.82
+   135s 5.35 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641236426.  399 20 C 23.4 ↑13.6 ↓3.9+0.10 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 5.05
+   136s 3.95 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641237427.  178 20 C 19.8 ↑11.5 ↓4.7+0.05 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 4.28
+   137s 4.69 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641238428.  166 20 C 19.1 ↑11.1 ↓4.4+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 5.05
+   138s 4.42 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641239430.  155 20 C 21.2 ↑12.3 ↓5.5+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 4.30
+   139s 5.45 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641240431.  164 20 C 20.8 ↑12.1 ↓4.7+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 4.91
+   140s 4.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641241432.  151 20 C 22.9 ↑13.3 ↓5.4+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.17
+   141s 5.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641242433.  172 20 C 20.0 ↑11.6 ↓5.2+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 4.29
+   142s 5.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641243436.  143 20 C 28.4 ↑16.5 ↓5.3+0.01 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 6.66
+   143s 5.30 Mbits/sec receiver
+recvData@udp_intcp.  250| recv use 7
+  update@  ikcp.cpp 1979| 1641244437.  185 20 C 24.9 ↑14.5 ↓5.6+0.00 iQ 0 iB 20012 rB 0 T 0 D 0 Hthrp 4.91
+   144s 5.62 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641245438.  128 20 C 24.4 ↑14.2 ↓5.2+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 5.61
+   145s 5.20 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641246439.  151 20 C 26.8 ↑15.6 ↓6.1+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 5.62
+   146s 6.07 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641247440.  158 20 C 23.4 ↑13.6 ↓5.2+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 5.61
+   147s 5.23 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641248441.  152 20 C 23.5 ↑13.6 ↓6.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.73
+   148s 6.13 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641249442.  167 20 C 25.0 ↑14.5 ↓5.7+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 5.63
+   149s 5.65 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641250443.  147 20 C 25.1 ↑14.6 ↓6.0+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.17
+   150s 6.01 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641251444.  161 20 C 24.2 ↑14.1 ↓6.1+0.00 iQ 0 iB 20015 rB 0 T 0 D 0 Hthrp 5.62
+   151s 6.09 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641252446.  129 20 C 25.2 ↑14.6 ↓5.9+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 5.90
+   152s 5.85 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641253447.  161 20 C 25.3 ↑14.7 ↓6.6+0.00 iQ 0 iB 20011 rB 0 T 0 D 0 Hthrp 6.42
+   153s 6.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641254448.  158 20 C 22.3 ↑12.9 ↓5.8+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 5.89
+   154s 5.77 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641255449.  147 20 C 28.6 ↑16.6 ↓6.8+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 7.30
+   155s 6.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641256450.  150 20 C 24.7 ↑14.3 ↓6.1+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 6.17
+   156s 6.13 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641257452.  146 20 C 27.9 ↑16.2 ↓6.7+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 7.29
+   157s 6.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641258453.  162 20 C 26.9 ↑15.6 ↓6.5+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 6.73
+   158s 6.53 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641259454.  134 20 C 29.1 ↑16.9 ↓6.6+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.66
+   159s 6.55 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641260455.  172 20 C 28.1 ↑16.3 ↓6.9+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.17
+   160s 6.95 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641261456.  138 20 C 28.1 ↑16.3 ↓6.4+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.49
+   161s 6.42 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641262458.  150 20 C 29.1 ↑16.9 ↓7.3+0.00 iQ 0 iB 20015 rB 0 T 0 D 0 Hthrp 7.30
+   162s 7.32 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641263459.  151 20 C 26.3 ↑15.3 ↓6.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 5.36
+   163s 6.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641264460.  145 20 C 29.4 ↑17.1 ↓7.3+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.29
+   164s 7.28 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641265461.  151 20 C 26.4 ↑15.3 ↓6.9+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.66
+   165s 6.90 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641266463.  142 20 C 31.5 ↑18.3 ↓7.1+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 7.86
+   166s 7.15 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641267465.  160 20 C 30.8 ↑17.9 ↓7.3+0.00 iQ 0 iB 19999 rB 0 T 1 D 0 Hthrp 6.73
+   167s 7.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641268466.  125 20 C 29.8 ↑17.3 ↓7.0+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 8.56
+   168s 6.99 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641269467.  150 20 C 33.0 ↑19.1 ↓7.7+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 7.51
+   169s 7.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641270468.  151 20 C 29.4 ↑17.1 ↓6.9+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 6.74
+   170s 6.90 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641271469.  148 20 C 31.5 ↑18.3 ↓7.8+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 8.04
+   171s 7.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641272470.  146 20 C 30.6 ↑17.8 ↓7.3+0.00 iQ 0 iB 20018 rB 0 T 1 D 0 Hthrp 7.17
+   172s 7.26 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641273471.  147 20 C 31.7 ↑18.4 ↓7.7+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.42
+   173s 7.74 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641274472.  146 20 C 28.6 ↑16.6 ↓7.6+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 8.03
+   174s 7.61 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641275473.  134 20 C 31.6 ↑18.3 ↓7.5+0.00 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 8.98
+   175s 7.53 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641276474.  161 20 C 33.8 ↑19.6 ↓8.0+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 7.85
+   176s 8.03 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641277475.  135 20 C 32.1 ↑18.6 ↓7.4+0.00 iQ 0 iB 20014 rB 0 T 1 D 0 Hthrp 8.42
+   177s 7.37 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641278476.  140 20 C 31.9 ↑18.5 ↓8.3+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 8.19
+   178s 8.34 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641279478.  150 20 C 28.9 ↑16.8 ↓7.5+0.00 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 8.03
+   179s 7.49 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641280479.  143 20 C 34.8 ↑20.2 ↓8.2+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 10.10
+   180s 8.23 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641281481.  148 20 C 32.0 ↑18.6 ↓7.9+0.00 iQ 0 iB 20014 rB 0 T 0 D 0 Hthrp 7.85
+   181s 7.90 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641282483.  136 20 C 34.1 ↑19.8 ↓8.1+0.00 iQ 1 iB 19998 rB 0 T 0 D 0 Hthrp 8.41
+   182s 8.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641283484.  156 20 C 32.0 ↑18.6 ↓8.2+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 7.86
+   183s 8.25 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641284485.  129 20 C 32.9 ↑19.1 ↓7.9+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.56
+   184s 7.90 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641285486.  149 20 C 37.0 ↑21.5 ↓8.6+0.01 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 8.03
+   185s 8.62 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641286487.  144 20 C 33.3 ↑19.3 ↓7.8+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 7.50
+   186s 7.78 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641287489.  140 20 C 36.3 ↑21.1 ↓8.8+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.97
+   187s 8.77 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641288490.  144 20 C 32.3 ↑18.7 ↓8.1+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 7.18
+   188s 8.08 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641289491.  138 20 C 35.3 ↑20.5 ↓8.5+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.10
+   189s 8.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641290492.  143 20 C 36.7 ↑21.3 ↓8.4+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 7.36
+   190s 8.41 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641291493.  129 20 C 34.8 ↑20.2 ↓8.4+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.97
+   191s 8.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641292494.  157 20 C 34.8 ↑20.2 ↓8.8+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 7.49
+   192s 8.78 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641293495.  134 20 C 34.0 ↑19.7 ↓8.2+0.00 iQ 0 iB 20004 rB 0 T 2 D 0 Hthrp 9.53
+   193s 8.20 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641294497.  139 20 C 38.0 ↑22.0 ↓9.1+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 10.09
+   194s 9.08 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641295498.  143 20 C 34.2 ↑19.8 ↓8.3+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.97
+   195s 8.27 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641296501.  143 20 C 37.3 ↑21.6 ↓9.0+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 10.09
+   196s 8.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641297502.  145 20 C 33.2 ↑19.2 ↓8.6+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 8.41
+   197s 8.64 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641298503.  132 20 C 37.2 ↑21.5 ↓8.8+0.00 iQ 1 iB 19997 rB 0 T 1 D 0 Hthrp 9.53
+   198s 8.78 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641299505.  151 20 C 36.3 ↑21.0 ↓8.9+0.01 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 8.97
+   199s 8.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641300506.  129 20 C 36.3 ↑21.0 ↓8.5+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.97
+   200s 8.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641301507.  138 20 C 36.4 ↑21.1 ↓9.2+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 7.31
+   201s 9.23 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641302508.  143 20 C 35.4 ↑20.5 ↓8.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.98
+   202s 8.44 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641303509.  140 20 C 35.2 ↑20.4 ↓9.4+0.01 iQ 0 iB 20006 rB 0 T 2 D 0 Hthrp 9.53
+   203s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641304511.  145 20 C 35.4 ↑20.5 ↓8.7+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 9.10
+   204s 8.71 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641305513.  138 20 C 37.3 ↑21.6 ↓9.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.53
+   205s 9.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641306514.  147 20 C 35.3 ↑20.4 ↓9.1+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 8.20
+   206s 9.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641307516.  131 20 C 37.3 ↑21.6 ↓8.9+0.01 iQ 0 iB 20011 rB 0 T 1 D 0 Hthrp 10.71
+   207s 8.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641308518.  152 20 C 37.3 ↑21.6 ↓9.4+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.70
+   208s 9.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641309519.  138 20 C 37.3 ↑21.6 ↓8.7+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 8.04
+   209s 8.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641310520.  139 20 C 38.3 ↑22.2 ↓9.5+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.37
+   210s 9.52 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641311521.  151 20 C 37.6 ↑21.8 ↓8.9+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.43
+   211s 8.88 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641312523.  140 20 C 37.5 ↑21.7 ↓9.3+0.00 iQ 0 iB 20013 rB 0 T 0 D 0 Hthrp 11.22
+   212s 9.35 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641313524.  144 20 C 35.5 ↑20.5 ↓9.2+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.70
+   213s 9.17 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641314525.  138 20 C 39.5 ↑22.9 ↓9.1+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 8.98
+   214s 9.15 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641315526.  157 20 C 37.5 ↑21.7 ↓9.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 9.10
+   215s 9.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641316527.  129 20 C 37.4 ↑21.6 ↓9.0+0.00 iQ 0 iB 19999 rB 0 T 2 D 0 Hthrp 9.53
+   216s 8.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641317528.  142 20 C 40.5 ↑23.4 ↓9.8+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.58
+   217s 9.76 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641318530.  142 20 C 36.6 ↑21.2 ↓8.9+0.01 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.63
+   218s 8.89 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641319531.  140 20 C 38.6 ↑22.3 ↓9.7+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 8.97
+   219s 9.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641320533.  145 20 C 37.7 ↑21.8 ↓9.2+0.01 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 9.54
+   220s 9.18 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641321534.  231 20 C 56.0 ↑32.4 ↓8.4+0.01 iQ 0 iB 20001 rB 0 T 3 D 0 Hthrp 9.64
+   221s 8.40 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641322535.  150 20 C 53.1 ↑30.7 ↓9.5+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 9.53
+   222s 9.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641323536.  126 20 C 50.1 ↑29.0 ↓9.1+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 11.22
+   223s 9.11 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641324538.  145 20 C 46.6 ↑27.0 ↓9.8+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 8.42
+   224s 9.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641325539.  140 20 C 43.3 ↑25.1 ↓9.0+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 10.09
+   225s 8.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641326540.  139 20 C 39.2 ↑22.7 ↓9.8+0.01 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 10.65
+   226s 9.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641327542.  141 20 C 37.3 ↑21.6 ↓9.2+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 9.53
+   227s 9.19 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641328543.  140 20 C 40.3 ↑23.3 ↓9.6+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 9.54
+   228s 9.59 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641329544.  144 20 C 36.1 ↑20.9 ↓9.4+0.00 iQ 0 iB 20016 rB 0 T 1 D 0 Hthrp 8.04
+   229s 9.44 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641330545.  133 20 C 38.2 ↑22.1 ↓9.4+0.01 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 10.66
+   230s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641331546.  153 20 C 38.2 ↑22.1 ↓9.8+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 10.65
+   231s 9.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641332547.  137 20 C 39.1 ↑22.6 ↓9.1+0.01 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 10.66
+   232s 9.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641333548.  140 20 C 39.0 ↑22.6 ↓10.0+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 9.12
+   233s 10.01 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641334549.  138 20 C 39.4 ↑22.8 ↓9.1+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 8.97
+   234s 9.11 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641335550.  137 20 C 41.4 ↑24.0 ↓9.8+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 10.66
+   235s 9.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641336551.  139 20 C 38.5 ↑22.3 ↓9.4+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 9.54
+   236s 9.39 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641337552.  140 20 C 40.6 ↑23.5 ↓9.5+0.02 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.17
+   237s 9.46 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641338553.  149 20 C 38.6 ↑22.3 ↓9.7+0.00 iQ 0 iB 20006 rB 0 T 2 D 0 Hthrp 9.10
+   238s 9.70 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641339554.  129 20 C 40.6 ↑23.5 ↓9.2+0.01 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 10.66
+   239s 9.23 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641340555.  139 20 C 40.7 ↑23.6 ↓9.9+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 11.22
+   240s 9.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641341557.  142 20 C 38.8 ↑22.5 ↓9.1+0.02 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 8.70
+   241s 9.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641342558.  141 20 C 40.9 ↑23.7 ↓9.9+0.00 iQ 0 iB 20014 rB 0 T 0 D 0 Hthrp 10.10
+   242s 9.90 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641343559.  144 20 C 38.1 ↑22.0 ↓9.2+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 9.10
+   243s 9.23 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641344560.  139 20 C 40.1 ↑23.2 ↓9.6+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 10.09
+   244s 9.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641345561.  144 20 C 36.9 ↑21.4 ↓9.6+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 9.54
+   245s 9.59 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641346563.  129 20 C 38.8 ↑22.5 ↓9.3+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 10.75
+   246s 9.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641347564.  148 20 C 37.7 ↑21.8 ↓9.8+0.01 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.97
+   247s 9.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641348565.  142 20 C 34.6 ↑20.0 ↓9.0+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.97
+   248s 8.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641349567.  140 20 C 42.6 ↑24.7 ↓10.0+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.09
+   249s 9.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641350568.  141 20 C 38.8 ↑22.5 ↓9.1+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 10.09
+   250s 9.13 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641351569.  143 20 C 38.8 ↑22.5 ↓9.7+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 10.65
+   251s 9.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641352570.  142 20 C 36.9 ↑21.4 ↓9.4+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.97
+   252s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641353571.  137 20 C 38.9 ↑22.5 ↓9.4+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 11.22
+   253s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641354573.  158 20 C 37.8 ↑21.9 ↓9.6+0.01 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 8.41
+   254s 9.63 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641355574.  127 20 C 37.7 ↑21.8 ↓9.1+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 9.53
+   255s 9.07 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641356576.  145 20 C 36.5 ↑21.1 ↓9.8+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 9.54
+   256s 9.83 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641357577.  144 20 C 35.3 ↑20.4 ↓9.0+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 9.54
+   257s 9.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641358578.  476 20 C 35.6 ↑20.6 ↓1.6+0.00 iQ 0 iB 20006 rB 0 T 13 D 0 Hthrp 0.14
+   258s 1.61 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641359580. 1860 20 C 34.4 ↑19.9 ↓2.4+0.09 iQ 0 iB 20006 rB 0 T 6 D 0 Hthrp 8.97
+   259s 2.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641360581.  143 20 C 37.5 ↑21.7 ↓8.0+0.94 iQ 0 iB 20005 rB 0 T 6 D 0 Hthrp 10.09
+   260s 8.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641361583.  162 20 C 38.4 ↑22.2 ↓9.5+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.30
+   261s 9.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641362584.  131 20 C 37.5 ↑21.7 ↓9.0+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 10.65
+   262s 8.95 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641363585.  143 20 C 39.5 ↑22.9 ↓9.7+0.00 iQ 0 iB 20012 rB 0 T 0 D 0 Hthrp 10.71
+   263s 9.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641364587.  144 20 C 36.6 ↑21.2 ↓8.8+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+   264s 8.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641365588.  148 20 C 39.5 ↑22.9 ↓9.5+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 10.71
+   265s 9.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641366589.  142 20 C 36.6 ↑21.2 ↓9.0+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 9.63
+   266s 9.04 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641367591.  137 20 C 38.7 ↑22.4 ↓9.1+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.98
+   267s 9.13 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641368593.  158 20 C 38.7 ↑22.4 ↓9.3+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 8.98
+   268s 9.35 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641369594.  131 20 C 38.9 ↑22.5 ↓8.7+0.00 iQ 0 iB 20011 rB 0 T 0 D 0 Hthrp 10.09
+   269s 8.73 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641370595.  146 20 C 37.8 ↑21.9 ↓9.5+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 9.64
+   270s 9.48 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641371596.  142 20 C 37.9 ↑21.9 ↓8.7+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.97
+   271s 8.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641372597.  144 20 C 40.2 ↑23.3 ↓9.3+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 10.10
+   272s 9.28 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641373598.  144 20 C 37.4 ↑21.6 ↓8.8+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 8.41
+   273s 8.85 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641374601.  138 20 C 35.4 ↑20.5 ↓8.9+0.00 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 9.64
+   274s 8.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641375602.  156 20 C 36.4 ↑21.1 ↓9.1+0.00 iQ 0 iB 20004 rB 0 T 3 D 0 Hthrp 8.41
+   275s 9.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641376603.  131 20 C 36.6 ↑21.2 ↓8.5+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 10.09
+   276s 8.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641377604.  144 20 C 36.4 ↑21.1 ↓9.4+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 9.54
+   277s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641378605.  143 20 C 33.5 ↑19.4 ↓8.4+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.42
+   278s 8.44 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641379606.  146 20 C 35.4 ↑20.5 ↓9.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.73
+   279s 9.08 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641380608.  147 20 C 36.6 ↑21.2 ↓8.7+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 8.19
+   280s 8.67 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641381609.  138 20 C 36.7 ↑21.2 ↓8.7+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 10.10
+   281s 8.65 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641382611.  160 20 C 33.5 ↑19.4 ↓8.9+0.01 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+   282s 8.92 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641383612.  133 20 C 35.6 ↑20.6 ↓8.3+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 9.11
+   283s 8.34 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641384613.  146 20 C 36.5 ↑21.1 ↓9.1+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 9.54
+   284s 9.09 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641385615.  145 20 C 33.6 ↑19.4 ↓8.2+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+   285s 8.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641386617.  141 20 C 34.6 ↑20.0 ↓8.8+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.97
+   286s 8.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641387618.  142 20 C 33.7 ↑19.5 ↓8.4+0.00 iQ 0 iB 20009 rB 0 T 1 D 0 Hthrp 8.03
+   287s 8.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641388619.  134 20 C 34.6 ↑20.0 ↓8.4+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 8.98
+   288s 8.42 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641389620.  162 20 C 34.7 ↑20.1 ↓8.7+0.01 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.03
+   289s 8.69 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641390621.  144 20 C 36.8 ↑21.3 ↓8.0+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.65
+   290s 7.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641391622.  144 20 C 36.9 ↑21.4 ↓8.8+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.85
+   291s 8.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641392624.  149 20 C 33.1 ↑19.1 ↓7.9+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 7.18
+   292s 7.92 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641393625.  146 20 C 35.1 ↑20.3 ↓8.5+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.04
+   293s 8.45 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641394626.  147 20 C 32.1 ↑18.6 ↓8.2+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.74
+   294s 8.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641395627.  130 20 C 35.2 ↑20.4 ↓8.0+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.97
+   295s 8.03 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641396629.  164 20 C 34.2 ↑19.8 ↓8.4+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.41
+   296s 8.41 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641397631.  145 20 C 31.3 ↑18.1 ↓7.6+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 7.50
+   297s 7.57 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641398632.  143 20 C 35.4 ↑20.5 ↓8.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.57
+   298s 8.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641399633.  148 20 C 33.8 ↑19.6 ↓7.6+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 7.85
+   299s 7.62 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641400634.  142 20 C 36.0 ↑20.8 ↓8.0+0.00 iQ 0 iB 20016 rB 0 T 0 D 0 Hthrp 8.43
+   300s 7.99 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641401635.  152 20 C 33.2 ↑19.2 ↓7.9+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.85
+   301s 7.90 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641402636.  132 20 C 33.4 ↑19.3 ↓7.6+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 8.03
+   302s 7.60 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641403637.  163 20 C 31.3 ↑18.1 ↓8.0+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 5.89
+   303s 8.04 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641404639.  151 20 C 28.4 ↑16.4 ↓7.2+0.01 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.97
+   304s 7.19 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641405640.  145 20 C 32.5 ↑18.8 ↓8.1+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.85
+   305s 8.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641406641.  147 20 C 29.6 ↑17.1 ↓7.2+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+   306s 7.24 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641407642.  145 20 C 35.8 ↑20.7 ↓7.6+0.00 iQ 0 iB 20004 rB 0 T 2 D 0 Hthrp 8.03
+   307s 7.62 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641408643.  152 20 C 32.1 ↑18.6 ↓7.4+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 6.96
+   308s 7.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641409644.  133 20 C 31.3 ↑18.1 ↓7.2+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 8.42
+   309s 7.19 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641410645.  160 20 C 32.3 ↑18.7 ↓7.6+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 6.96
+   310s 7.61 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641411646.  148 20 C 28.5 ↑16.5 ↓6.8+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.17
+   311s 6.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641412647.  146 20 C 30.5 ↑17.6 ↓7.6+0.00 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 7.31
+   312s 7.61 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641413648.  156 20 C 26.5 ↑15.3 ↓6.8+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.96
+   313s 6.77 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641414649.  147 20 C 29.7 ↑17.2 ↓7.2+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+   314s 7.21 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641415650.  153 20 C 28.9 ↑16.7 ↓7.0+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 5.90
+   315s 6.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641416652.  136 20 C 31.2 ↑18.0 ↓6.7+0.00 iQ 0 iB 19998 rB 0 T 1 D 0 Hthrp 7.85
+   316s 6.74 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641417653.  175 20 C 29.4 ↑17.0 ↓7.2+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 5.61
+   317s 7.17 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641418654.  149 20 C 25.6 ↑14.8 ↓6.3+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.65
+   318s 6.29 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641419655.  146 20 C 29.7 ↑17.2 ↓7.2+0.01 iQ 0 iB 20007 rB 0 T 2 D 0 Hthrp 6.96
+   319s 7.17 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641420656.  148 20 C 27.0 ↑15.6 ↓6.3+0.00 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 6.73
+   320s 6.27 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641421657.  147 20 C 27.1 ↑15.7 ↓6.7+0.01 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 7.29
+   321s 6.73 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641422658.  164 20 C 27.4 ↑15.9 ↓6.5+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.62
+   322s 6.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641423660.  139 20 C 28.7 ↑16.6 ↓6.3+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 8.57
+   323s 6.27 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641424661.  175 20 C 27.0 ↑15.6 ↓6.6+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 6.17
+   324s 6.60 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641425663.  148 20 C 25.2 ↑14.6 ↓5.8+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.74
+   325s 5.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641426664.  147 20 C 29.6 ↑17.1 ↓6.7+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 7.29
+   326s 6.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641427665.  152 20 C 26.2 ↑15.2 ↓5.7+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 5.36
+   327s 5.71 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641428666.  153 20 C 27.3 ↑15.8 ↓6.2+0.01 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 7.29
+   328s 6.22 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641429667.  166 20 C 23.5 ↑13.6 ↓5.9+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 5.18
+   329s 5.86 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641430669.  137 20 C 24.7 ↑14.3 ↓5.7+0.00 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 6.73
+   330s 5.74 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641431672.  191 20 C 25.0 ↑14.5 ↓6.0+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.35
+   331s 6.02 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641432674.  150 20 C 22.3 ↑12.9 ↓5.3+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 6.17
+   332s 5.28 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641433675.  154 20 C 23.3 ↑13.5 ↓6.1+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 6.42
+   333s 6.11 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641434676.  156 20 C 20.6 ↑11.9 ↓5.1+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 5.12
+   334s 5.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641435678.  153 20 C 23.7 ↑13.7 ↓5.7+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 5.63
+   335s 5.69 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641436679.  167 20 C 20.9 ↑12.1 ↓5.2+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 5.06
+   336s 5.23 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641437681.  145 20 C 23.0 ↑13.3 ↓5.2+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 6.42
+   337s 5.21 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641438682.  200 20 C 25.6 ↑14.8 ↓5.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 4.28
+   338s 5.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641439683.  141 20 C 25.4 ↑14.7 ↓4.7+0.02 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 6.42
+   339s 4.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641440685.  156 20 C 22.7 ↑13.1 ↓5.5+0.00 iQ 0 iB 20004 rB 0 T 2 D 0 Hthrp 5.12
+   340s 5.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641441687.  161 20 C 20.4 ↑11.8 ↓4.5+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 4.49
+   341s 4.46 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641442689.  638 20 C 19.3 ↑11.2 ↓2.5+0.08 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 4.82
+   342s 2.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641443690.  167 20 C 18.5 ↑10.7 ↓4.7+0.00 iQ 0 iB 20005 rB 0 T 3 D 0 Hthrp 4.10
+   343s 4.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641444691.  136 20 C 27.2 ↑15.7 ↓5.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 4.83
+   344s 5.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641445692.  181 20 C 23.4 ↑13.5 ↓5.8+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 5.61
+   345s 5.79 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641446694.  151 20 C 22.9 ↑13.2 ↓5.3+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 5.61
+   346s 5.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641447695.  151 20 C 23.7 ↑13.7 ↓6.5+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.42
+   347s 6.52 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641448696.  157 20 C 23.8 ↑13.8 ↓5.9+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 5.61
+   348s 5.91 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641449698.  149 20 C 30.9 ↑17.9 ↓6.7+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.85
+   349s 6.73 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641450700.  158 20 C 27.0 ↑15.6 ↓6.7+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 6.96
+   350s 6.68 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641451701.  136 20 C 31.2 ↑18.0 ↓6.8+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 7.85
+   351s 6.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641452703.  169 20 C 30.4 ↑17.6 ↓7.4+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 7.30
+   352s 7.40 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641453704.  134 20 C 33.6 ↑19.4 ↓7.0+0.00 iQ 1 iB 19999 rB 0 T 2 D 0 Hthrp 7.29
+   353s 6.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641454706.  150 20 C 33.6 ↑19.4 ↓8.0+0.00 iQ 0 iB 20007 rB 0 T 2 D 0 Hthrp 9.53
+   354s 8.01 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641455708.  147 20 C 31.8 ↑18.4 ↓7.3+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 7.29
+   355s 7.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641456711.  148 20 C 32.8 ↑19.0 ↓8.1+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 9.10
+   356s 8.14 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641457712.  153 20 C 31.8 ↑18.4 ↓8.0+0.00 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 6.66
+   357s 7.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641458713.  134 20 C 37.9 ↑21.9 ↓8.2+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 9.10
+   358s 8.19 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641459715.  164 20 C 33.9 ↑19.6 ↓8.6+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 7.49
+   359s 8.56 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641460716.  133 20 C 36.0 ↑20.8 ↓8.2+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.97
+   360s 8.15 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641461717.  146 20 C 37.0 ↑21.4 ↓9.1+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.70
+   361s 9.09 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641462718.  150 20 C 32.9 ↑19.0 ↓8.4+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 8.70
+   362s 8.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641463719.  147 20 C 38.1 ↑22.0 ↓9.1+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 9.55
+   363s 9.07 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641464720.  142 20 C 35.1 ↑20.3 ↓8.8+0.01 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 8.97
+   364s 8.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641465721.  137 20 C 39.2 ↑22.7 ↓8.9+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.10
+   365s 8.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641466723.  157 20 C 37.1 ↑21.5 ↓9.3+0.00 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 8.97
+   366s 9.32 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641467724.  132 20 C 39.2 ↑22.7 ↓8.8+0.00 iQ 1 iB 19999 rB 0 T 1 D 0 Hthrp 8.42
+   367s 8.85 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641468725.  145 20 C 40.4 ↑23.4 ↓9.8+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 10.65
+   368s 9.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641469726.  150 20 C 36.5 ↑21.1 ↓8.9+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.57
+   369s 8.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641470727.  142 20 C 38.5 ↑22.3 ↓9.7+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 10.09
+   370s 9.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641471729.  150 20 C 36.4 ↑21.1 ↓9.3+0.01 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 10.09
+   371s 9.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641472731.  135 20 C 38.4 ↑22.2 ↓9.4+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 10.09
+   372s 9.40 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641473732.  153 20 C 39.5 ↑22.9 ↓9.7+0.01 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 10.10
+   373s 9.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641474734.  136 20 C 38.4 ↑22.2 ↓9.2+0.00 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 11.22
+   374s 9.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641475735.  145 20 C 42.6 ↑24.7 ↓10.0+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 10.24
+   375s 9.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641476736.  147 20 C 38.9 ↑22.5 ↓9.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 8.97
+   376s 9.08 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641477737.  144 20 C 43.1 ↑25.0 ↓9.8+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 9.56
+   377s 9.76 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641478738.  145 20 C 39.2 ↑22.7 ↓9.4+0.00 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 10.09
+   378s 9.44 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641479739.  140 20 C 39.4 ↑22.8 ↓9.4+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 9.63
+   379s 9.41 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641480740.  157 20 C 37.3 ↑21.6 ↓9.6+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 9.10
+   380s 9.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641481741.  134 20 C 39.3 ↑22.8 ↓9.1+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 9.22
+   381s 9.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641482743.  149 20 C 38.3 ↑22.2 ↓9.8+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 9.12
+   382s 9.76 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641483744.  147 20 C 34.1 ↑19.7 ↓8.9+0.01 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 9.22
+   383s 8.92 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641484745.  143 20 C 38.2 ↑22.1 ↓9.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 9.53
+   384s 9.39 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641485746.  367 20 C 34.8 ↑20.1 ↓7.3+0.00 iQ 0 iB 20017 rB 0 T 3 D 0 Hthrp 6.17
+   385s 7.26 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641486747.  158 20 C 34.8 ↑20.1 ↓6.5+0.01 iQ 0 iB 20015 rB 0 T 2 D 0 Hthrp 5.64
+   386s 6.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641487748.  145 20 C 31.4 ↑18.2 ↓6.6+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 7.30
+   387s 6.59 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641488749.  137 20 C 33.2 ↑19.2 ↓6.7+0.01 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 5.89
+   388s 6.69 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641489750.  128 20 C 35.3 ↑20.4 ↓6.7+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.17
+   389s 6.68 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641490752.  143 20 C 31.9 ↑18.5 ↓6.7+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.42
+   390s 6.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641491753.  162 20 C 32.6 ↑18.9 ↓6.6+0.00 iQ 0 iB 20010 rB 0 T 0 D 0 Hthrp 8.70
+   391s 6.55 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641492754.  159 20 C 29.2 ↑16.9 ↓6.3+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 5.61
+   392s 6.25 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641493755.  134 20 C 29.7 ↑17.2 ↓6.7+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.73
+   393s 6.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641494757.  156 20 C 29.1 ↑16.8 ↓6.4+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 6.97
+   394s 6.43 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641495758.  119 20 C 31.6 ↑18.3 ↓7.0+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 8.98
+   395s 7.03 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641496760.  158 20 C 30.5 ↑17.6 ↓7.9+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.30
+   396s 7.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641497762.  137 20 C 29.4 ↑17.0 ↓7.1+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 8.41
+   397s 7.11 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641498764.  134 20 C 31.4 ↑18.2 ↓7.7+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.74
+   398s 7.74 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641499765.  141 20 C 31.2 ↑18.0 ↓6.6+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.74
+   399s 6.62 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641500766.  138 20 C 29.2 ↑16.9 ↓7.2+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 7.49
+   400s 7.19 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641501768.  143 20 C 28.7 ↑16.6 ↓6.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.19
+   401s 6.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641502769.  141 20 C 29.0 ↑16.8 ↓6.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 7.29
+   402s 6.49 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641503770.  156 20 C 25.1 ↑14.5 ↓6.2+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 5.05
+   403s 6.24 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641504771.  132 20 C 24.3 ↑14.1 ↓5.7+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.96
+   404s 5.74 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641505773.  178 20 C 25.4 ↑14.7 ↓6.0+0.00 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 4.61
+   405s 6.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641506774.  143 20 C 24.0 ↑13.9 ↓5.0+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 6.73
+   406s 4.98 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641507775.  148 20 C 23.2 ↑13.4 ↓5.6+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 5.61
+   407s 5.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641508776.  771 20 C 21.7 ↑12.6 ↓2.0+0.08 iQ 0 iB 20004 rB 0 T 2 D 0 Hthrp 4.62
+   408s 2.01 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641509778.  147 20 C 25.0 ↑14.5 ↓5.5+0.00 iQ 0 iB 20007 rB 0 T 4 D 0 Hthrp 6.97
+   409s 5.52 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641510779.  161 20 C 23.2 ↑13.4 ↓5.7+0.00 iQ 2 iB 19999 rB 0 T 0 D 0 Hthrp 6.17
+   410s 5.65 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641511780.  125 20 C 27.1 ↑15.7 ↓6.0+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 7.29
+   411s 5.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641512781.  161 20 C 27.2 ↑15.7 ↓6.8+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.96
+   412s 6.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641513782.  150 20 C 25.1 ↑14.5 ↓6.5+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 6.17
+   413s 6.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641514783.  146 20 C 31.1 ↑18.0 ↓7.8+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 8.56
+   414s 7.82 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641515785.  150 20 C 30.4 ↑17.6 ↓7.4+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.97
+   415s 7.37 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641516786.  140 20 C 33.3 ↑19.3 ↓8.1+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.57
+   416s 8.14 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641517787.  143 20 C 34.6 ↑20.0 ↓8.3+0.00 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 8.97
+   417s 8.26 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641518789.  131 20 C 35.7 ↑20.7 ↓8.4+0.00 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 8.57
+   418s 8.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641519790.  153 20 C 36.7 ↑21.2 ↓9.1+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 7.86
+   419s 9.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641520792.  145 20 C 32.6 ↑18.9 ↓8.5+0.00 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 8.05
+   420s 8.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641521793.  139 20 C 38.7 ↑22.4 ↓9.6+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 9.54
+   421s 9.57 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641522794.  140 20 C 38.0 ↑22.0 ↓8.9+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 9.64
+   422s 8.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641523795.  140 20 C 40.2 ↑23.3 ↓9.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 10.66
+   423s 9.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641524796.  142 20 C 38.3 ↑22.2 ↓9.4+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.97
+   424s 9.45 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641525797.  150 20 C 40.7 ↑23.6 ↓9.0+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 7.17
+   425s 8.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641526798.  130 20 C 40.7 ↑23.6 ↓7.2+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 9.53
+   426s 7.17 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641527799.  145 20 C 37.7 ↑21.8 ↓7.1+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.03
+   427s 7.09 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641528800.  135 20 C 43.6 ↑25.2 ↓7.7+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 6.73
+   428s 7.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641529801.  151 20 C 40.2 ↑23.3 ↓8.3+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 7.30
+   429s 8.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641530803.  138 20 C 41.0 ↑23.7 ↓8.6+0.00 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 8.57
+   430s 8.63 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641531805.  144 20 C 42.7 ↑24.7 ↓8.4+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.85
+   431s 8.37 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641532806.  142 20 C 42.3 ↑24.5 ↓8.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 7.49
+   432s 8.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641533807.  147 20 C 38.8 ↑22.5 ↓8.4+0.00 iQ 0 iB 20009 rB 0 T 1 D 0 Hthrp 8.41
+   433s 8.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641534809.  142 20 C 38.3 ↑22.2 ↓8.1+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 7.29
+   434s 8.11 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641535811.  136 20 C 39.9 ↑23.1 ↓8.7+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.97
+   435s 8.71 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641536812.  146 20 C 36.4 ↑21.1 ↓7.9+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 8.03
+   436s 7.85 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641537814.  144 20 C 32.5 ↑18.8 ↓8.0+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 7.36
+   437s 8.05 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641538815.  155 20 C 31.8 ↑18.4 ↓7.6+0.00 iQ 1 iB 19998 rB 0 T 1 D 0 Hthrp 6.96
+   438s 7.60 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641539816.  142 20 C 30.0 ↑17.4 ↓7.0+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 7.30
+   439s 7.03 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641540818.  171 20 C 28.9 ↑16.7 ↓7.2+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 6.96
+   440s 7.23 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641541819.  155 20 C 25.2 ↑14.6 ↓6.0+0.00 iQ 0 iB 20013 rB 0 T 0 D 0 Hthrp 6.14
+   441s 5.95 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641542821.  155 20 C 26.4 ↑15.3 ↓6.4+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 7.17
+   442s 6.42 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641543822.  164 20 C 22.9 ↑13.2 ↓5.2+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 4.82
+   443s 5.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641544823.  621 20 C 22.9 ↑13.2 ↓2.9+0.05 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 4.49
+   444s 2.87 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641545824.  162 20 C 20.3 ↑11.7 ↓4.6+0.01 iQ 0 iB 20014 rB 0 T 4 D 0 Hthrp 5.35
+   445s 4.64 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641546826.  124 20 C 24.8 ↑14.4 ↓4.7+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 4.62
+   446s 4.71 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641547827.  183 20 C 26.7 ↑15.4 ↓5.3+0.00 iQ 0 iB 20006 rB 0 T 2 D 0 Hthrp 4.28
+   447s 5.34 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641548829.  166 20 C 23.6 ↑13.6 ↓4.6+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 5.06
+   448s 4.62 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641549830.  145 20 C 31.5 ↑18.2 ↓5.7+0.00 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 5.35
+   449s 5.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641550831.  159 20 C 28.8 ↑16.7 ↓4.9+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 4.49
+   450s 4.89 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641551833.  153 20 C 28.7 ↑16.6 ↓5.6+0.00 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 7.49
+   451s 5.59 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641552834.  163 20 C 25.4 ↑14.7 ↓5.4+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 4.82
+   452s 5.35 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641553835.  147 20 C 28.1 ↑16.3 ↓5.4+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 4.42
+   453s 5.42 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641554837.  169 20 C 29.0 ↑16.8 ↓5.8+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 4.82
+   454s 5.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641555838.  130 20 C 27.9 ↑16.1 ↓5.4+0.00 iQ 1 iB 19999 rB 0 T 1 D 0 Hthrp 5.61
+   455s 5.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641556839.  156 20 C 24.9 ↑14.4 ↓6.2+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 6.73
+   456s 6.22 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641557841.  155 20 C 22.1 ↑12.8 ↓5.4+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 5.89
+   457s 5.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641558842.  153 20 C 26.5 ↑15.3 ↓6.3+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.73
+   458s 6.28 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641559843.  151 20 C 22.5 ↑13.0 ↓5.8+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.17
+   459s 5.79 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641560845.  143 20 C 27.7 ↑16.0 ↓6.2+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 6.66
+   460s 6.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641561846.  171 20 C 24.7 ↑14.3 ↓6.2+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 5.36
+   461s 6.24 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641562847.  135 20 C 25.9 ↑15.0 ↓6.0+0.00 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 6.15
+   462s 5.98 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641563849.  157 20 C 26.8 ↑15.5 ↓6.7+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 6.17
+   463s 6.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641564850.  163 20 C 24.0 ↑13.9 ↓5.9+0.00 iQ 1 iB 19998 rB 0 T 0 D 0 Hthrp 5.62
+   464s 5.91 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641565852.  146 20 C 28.0 ↑16.2 ↓6.9+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 6.43
+   465s 6.88 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641566901.  148 20 C 25.4 ↑14.7 ↓6.1+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 6.73
+   466s 6.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641568039.  125 20 C 28.9 ↑16.8 ↓5.6+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 7.85
+   467s 5.64 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641569040.  161 20 C 27.2 ↑15.8 ↓6.5+0.01 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.66
+   468s 6.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641570041.  146 20 C 29.3 ↑17.0 ↓6.8+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.74
+   469s 6.79 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641571042.  159 20 C 26.3 ↑15.3 ↓6.9+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 6.73
+   470s 6.89 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641572043.  129 20 C 28.3 ↑16.4 ↓6.6+0.00 iQ 0 iB 20017 rB 0 T 1 D 0 Hthrp 7.29
+   471s 6.64 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641573044.  155 20 C 29.5 ↑17.1 ↓7.3+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.42
+   472s 7.32 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641574045.  150 20 C 26.6 ↑15.4 ↓6.5+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 7.29
+   473s 6.51 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641575046.  144 20 C 28.6 ↑16.6 ↓7.5+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 7.68
+   474s 7.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641576048.  155 20 C 25.4 ↑14.7 ↓6.9+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.98
+   475s 6.87 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641577049.  141 20 C 31.6 ↑18.3 ↓7.3+0.00 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 8.43
+   476s 7.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641578051.  147 20 C 28.7 ↑16.7 ↓7.3+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.85
+   477s 7.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641579052.  130 20 C 32.7 ↑19.0 ↓7.1+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.56
+   478s 7.15 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641580054.  159 20 C 30.7 ↑17.8 ↓7.7+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.41
+   479s 7.71 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641581055.  151 20 C 27.8 ↑16.1 ↓7.0+0.01 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 7.85
+   480s 6.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641582056.  147 20 C 30.7 ↑17.8 ↓7.9+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 6.66
+   481s 7.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641583057.  150 20 C 27.7 ↑16.1 ↓7.2+0.00 iQ 0 iB 20012 rB 0 T 0 D 0 Hthrp 8.03
+   482s 7.24 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641584058.  145 20 C 32.9 ↑19.1 ↓7.8+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 9.53
+   483s 7.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641585059.  144 20 C 32.2 ↑18.7 ↓7.6+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 7.85
+   484s 7.63 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641586061.  135 20 C 35.5 ↑20.6 ↓7.6+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.41
+   485s 7.64 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641587063.  165 20 C 35.8 ↑20.8 ↓8.0+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 6.74
+   486s 8.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641588065.  131 20 C 33.2 ↑19.3 ↓7.5+0.00 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 9.22
+   487s 7.52 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641589066.  143 20 C 34.4 ↑20.0 ↓8.3+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 7.86
+   488s 8.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641590068.  145 20 C 32.7 ↑19.0 ↓7.5+0.00 iQ 0 iB 19999 rB 0 T 1 D 0 Hthrp 7.85
+   489s 7.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641591069.  144 20 C 34.9 ↑20.2 ↓8.3+0.00 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 8.57
+   490s 8.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641592237.  852 20 C 36.1 ↑20.9 ↓7.1+0.22 iQ 0 iB 19999 rB 0 T 20 D 0 Hthrp 7.85
+   491s 7.08 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641593238.  137 20 C 35.3 ↑20.4 ↓8.2+0.00 iQ 0 iB 20012 rB 0 T 1 D 0 Hthrp 7.85
+   492s 8.19 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641594239.  142 20 C 31.1 ↑18.0 ↓8.1+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 6.74
+   493s 8.14 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641595375.  164 20 C 32.5 ↑18.8 ↓6.9+0.00 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 8.97
+   495s 6.86 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641596377.  151 20 C 33.6 ↑19.5 ↓8.4+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 8.56
+   496s 8.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641597378.  125 20 C 34.7 ↑20.1 ↓8.1+0.00 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 8.41
+   497s 8.07 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641598379.  145 20 C 37.7 ↑21.8 ↓8.8+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 8.19
+   498s 8.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641599381.  142 20 C 34.0 ↑19.7 ↓7.9+0.00 iQ 1 iB 19996 rB 0 T 0 D 0 Hthrp 8.41
+   499s 7.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641600382.  144 20 C 34.9 ↑20.2 ↓8.8+0.00 iQ 0 iB 20012 rB 0 T 1 D 0 Hthrp 10.09
+   500s 8.85 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641601384.  141 20 C 31.9 ↑18.5 ↓8.2+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.04
+   501s 8.18 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641602385.  140 20 C 34.9 ↑20.2 ↓8.7+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 9.64
+   502s 8.69 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641603386.  147 20 C 35.0 ↑20.3 ↓8.6+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.70
+   503s 8.59 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641604387.  128 20 C 39.2 ↑22.7 ↓8.5+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 9.64
+   504s 8.45 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641605388.  156 20 C 35.1 ↑20.3 ↓8.9+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+   505s 8.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641606389.  140 20 C 34.2 ↑19.8 ↓8.3+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 9.63
+   506s 8.26 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641607391.  143 20 C 37.3 ↑21.6 ↓9.2+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 8.19
+   507s 9.19 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641608392.  140 20 C 34.4 ↑19.9 ↓8.4+0.00 iQ 0 iB 20001 rB 0 T 2 D 0 Hthrp 8.97
+   508s 8.38 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641609393.  140 20 C 38.6 ↑22.3 ↓9.0+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 9.53
+   509s 9.04 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641610395.  143 20 C 37.8 ↑21.9 ↓8.7+0.00 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 8.41
+   510s 8.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641611396.  135 20 C 36.8 ↑21.3 ↓8.8+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.42
+   511s 8.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641612397.  155 20 C 37.0 ↑21.4 ↓9.1+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 8.41
+   512s 9.06 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641613398.  129 20 C 35.0 ↑20.3 ↓8.6+0.01 iQ 0 iB 20003 rB 0 T 1 D 0 Hthrp 10.09
+   513s 8.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641614399.  144 20 C 35.9 ↑20.8 ↓9.4+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.41
+   514s 9.41 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641615400.  144 20 C 33.7 ↑19.5 ↓8.5+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.41
+   515s 8.55 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641616401.  139 20 C 36.5 ↑21.1 ↓9.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.09
+   516s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641617403.  142 20 C 36.8 ↑21.3 ↓8.8+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 9.53
+   517s 8.84 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641618404.  139 20 C 36.8 ↑21.3 ↓9.1+0.00 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 9.54
+   518s 9.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641619405.  148 20 C 34.7 ↑20.1 ↓9.2+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 9.53
+   519s 9.18 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641620407.  129 20 C 38.8 ↑22.5 ↓8.9+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 10.17
+   520s 8.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641621408.  155 20 C 49.2 ↑28.5 ↓8.8+0.19 iQ 0 iB 20005 rB 0 T 1 D 0 Hthrp 16.84
+   521s 8.75 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641622409.  127 20 C 47.7 ↑27.6 ↓7.2+0.00 iQ 0 iB 19999 rB 0 T 1 D 0 Hthrp 4.54
+   522s 7.25 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641623410.  122 20 C 45.2 ↑26.2 ↓7.0+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 5.35
+   523s 7.02 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641624411.  139 20 C 42.6 ↑24.7 ↓6.6+0.00 iQ 0 iB 20013 rB 0 T 1 D 0 Hthrp 5.89
+   524s 6.60 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641625413.  132 20 C 39.9 ↑23.1 ↓6.7+0.01 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 6.97
+   525s 6.67 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641626414.  130 20 C 37.0 ↑21.4 ↓6.6+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 4.62
+   526s 6.60 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641627415.  135 20 C 34.9 ↑20.2 ↓6.8+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 5.35
+   527s 6.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641628417.  144 20 C 36.9 ↑21.4 ↓7.0+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 8.97
+   528s 7.02 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641629418.  124 20 C 33.8 ↑19.6 ↓6.6+0.00 iQ 0 iB 20018 rB 0 T 0 D 0 Hthrp 5.05
+   529s 6.55 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641630419.  132 20 C 36.8 ↑21.3 ↓6.9+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.61
+   530s 6.86 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641631421.  133 20 C 34.6 ↑20.0 ↓6.8+0.00 iQ 1 iB 19999 rB 0 T 0 D 0 Hthrp 8.97
+   531s 6.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641632784.  215 20 C 39.6 ↑22.9 ↓7.5+0.81 iQ 0 iB 20008 rB 0 T 71 D 0 Hthrp 7.29
+   532s 7.54 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641634501.  905 20 C 34.3 ↑19.9 ↓4.6+0.88 iQ 0 iB 20004 rB 0 T 112 D 0 Hthrp 5.12
+   534s 4.56 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641636579.  834 25 C 2.6 ↑1.5 ↓1.4+0.10 iQ 0 iB 20003 rB 0 T 14 D 0 Hthrp 1.86
+   536s 1.40 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641637580.  449 20 C 67.7 ↑39.2 ↓10.3+0.00 iQ 0 iB 20001 rB 0 T 455 D 0 Hthrp 14.59
+   537s 10.33 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641638582.  126 20 C 66.0 ↑38.2 ↓6.8+0.00 iQ 0 iB 20007 rB 0 T 30 D 0 Hthrp 5.40
+   538s 6.76 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641639584.  126 20 C 64.2 ↑37.2 ↓6.8+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 6.74
+   539s 6.79 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641641002.  815 20 C 33.3 ↑19.3 ↓6.0+0.83 iQ 0 iB 20004 rB 0 T 72 D 0 Hthrp 5.61
+   540s 5.99 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641642003.  123 20 C 36.2 ↑21.0 ↓7.0+0.00 iQ 0 iB 20008 rB 0 T 111 D 0 Hthrp 8.41
+   541s 7.02 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641643004.  142 20 C 35.3 ↑20.5 ↓8.5+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.58
+   542s 8.55 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641644006.  144 20 C 41.5 ↑24.1 ↓9.8+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.65
+   543s 9.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641645008.  146 20 C 38.7 ↑22.4 ↓9.4+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 7.86
+   544s 9.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641646009.  135 20 C 40.8 ↑23.6 ↓9.5+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 10.09
+   545s 9.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641647010.  150 20 C 36.6 ↑21.2 ↓9.7+0.01 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 9.54
+   546s 9.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641648273.  150 20 C 38.6 ↑22.4 ↓9.1+0.93 iQ 1 iB 19998 rB 0 T 81 D 0 Hthrp 9.55
+   548s 9.08 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641649274.  159 20 C 36.5 ↑21.2 ↓9.7+0.00 iQ 0 iB 19999 rB 0 T 0 D 0 Hthrp 7.87
+   549s 9.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641650275.  126 20 C 40.5 ↑23.4 ↓9.2+0.00 iQ 0 iB 20004 rB 0 T 1 D 0 Hthrp 9.73
+   550s 9.21 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641651642.  236 20 C 37.3 ↑21.6 ↓8.3+1.07 iQ 0 iB 20006 rB 0 T 169 D 0 Hthrp 9.10
+   551s 8.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641652644.  127 20 C 40.5 ↑23.4 ↓9.3+0.00 iQ 0 iB 20006 rB 0 T 114 D 0 Hthrp 10.18
+   552s 9.26 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641653792.  129 20 C 41.4 ↑24.0 ↓8.5+0.22 iQ 0 iB 20004 rB 0 T 20 D 0 Hthrp 9.53
+   553s 8.48 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641654794.  137 20 C 37.5 ↑21.7 ↓9.1+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 10.09
+   554s 9.14 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641655796.  140 20 C 40.6 ↑23.5 ↓9.9+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 9.10
+   555s 9.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641656970.  142 20 C 38.1 ↑22.1 ↓8.7+0.21 iQ 0 iB 20004 rB 0 T 18 D 0 Hthrp 8.71
+   556s 8.72 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641657971.  139 20 C 41.1 ↑23.8 ↓10.0+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 11.22
+   557s 9.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641658972.  143 20 C 37.1 ↑21.5 ↓9.2+0.00 iQ 0 iB 19999 rB 0 T 1 D 0 Hthrp 10.09
+   558s 9.21 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641659973.  140 20 C 41.3 ↑23.9 ↓9.7+0.01 iQ 0 iB 20015 rB 0 T 1 D 0 Hthrp 10.65
+   559s 9.66 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641661160.  851 20 C 35.7 ↑20.7 ↓7.7+0.45 iQ 0 iB 20000 rB 0 T 39 D 0 Hthrp 8.41
+   560s 7.70 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641662161.  138 20 C 38.6 ↑22.4 ↓9.5+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 10.66
+   561s 9.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641663162.  151 20 C 35.4 ↑20.5 ↓9.6+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.09
+   562s 9.57 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641664163.   89 20 C 34.1 ↑19.8 ↓6.9+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 1.34
+   563s 6.88 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641665164.  283 20 C 36.2 ↑21.0 ↓6.6+0.00 iQ 0 iB 20001 rB 0 T 4 D 0 Hthrp 8.03
+   564s 6.59 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641666518.  316 20 C 27.6 ↑16.0 ↓4.3+0.15 iQ 0 iB 20006 rB 0 T 15 D 0 Hthrp 6.18
+   566s 4.34 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641667519.  129 20 C 27.8 ↑16.1 ↓4.6+0.00 iQ 0 iB 20005 rB 0 T 2 D 0 Hthrp 2.68
+   567s 4.64 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641668520.  156 20 C 31.4 ↑18.2 ↓4.8+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 3.07
+   568s 4.81 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641669714.  128 20 C 25.0 ↑14.5 ↓4.1+0.15 iQ 0 iB 20002 rB 0 T 13 D 0 Hthrp 3.76
+   569s 4.15 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641670716.  174 20 C 27.4 ↑15.9 ↓4.5+0.02 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.61
+   570s 4.47 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641671856.  123 20 C 26.0 ↑15.0 ↓4.5+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 3.07
+   571s 4.46 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641672857.  124 20 C 30.5 ↑17.6 ↓4.9+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 3.07
+   572s 4.94 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641673858.  148 20 C 31.8 ↑18.4 ↓4.9+0.00 iQ 0 iB 20008 rB 0 T 0 D 0 Hthrp 4.28
+   573s 4.93 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641674860.  124 20 C 33.0 ↑19.1 ↓5.7+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 5.61
+   574s 5.70 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641675862.  129 20 C 39.3 ↑22.8 ↓8.6+0.02 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.66
+   575s 8.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641676863.  138 20 C 39.4 ↑22.8 ↓9.7+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.97
+   576s 9.69 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641677865.  144 20 C 38.5 ↑22.3 ↓8.8+0.00 iQ 0 iB 20007 rB 0 T 1 D 0 Hthrp 9.54
+   577s 8.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641678867.  139 20 C 42.8 ↑24.8 ↓9.6+0.01 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 9.53
+   578s 9.55 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641679869.  141 20 C 39.0 ↑22.6 ↓9.0+0.00 iQ 0 iB 20002 rB 0 T 0 D 0 Hthrp 8.57
+   579s 9.03 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641680871.  141 20 C 37.1 ↑21.5 ↓9.2+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 8.57
+   580s 9.17 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641681873.  150 20 C 37.1 ↑21.5 ↓9.3+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 9.65
+   581s 9.32 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641682874.  134 20 C 37.3 ↑21.6 ↓8.8+0.00 iQ 0 iB 20006 rB 0 T 1 D 0 Hthrp 9.54
+   582s 8.79 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641683876.  141 20 C 39.3 ↑22.8 ↓9.6+0.01 iQ 0 iB 19999 rB 0 T 1 D 0 Hthrp 10.65
+   583s 9.58 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641684878.  144 20 C 35.4 ↑20.5 ↓8.6+0.00 iQ 0 iB 20016 rB 0 T 1 D 0 Hthrp 8.97
+   584s 8.60 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641685880.  141 20 C 38.6 ↑22.4 ↓9.3+0.01 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.09
+   585s 9.29 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641686882.  141 20 C 34.5 ↑20.0 ↓8.9+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 9.53
+   586s 8.89 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641687884.  137 20 C 36.5 ↑21.1 ↓8.9+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 10.17
+   587s 8.92 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641688885.  161 20 C 37.8 ↑21.9 ↓9.2+0.00 iQ 0 iB 20003 rB 0 T 0 D 0 Hthrp 8.57
+   588s 9.18 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641689886.  132 20 C 36.9 ↑21.4 ↓8.6+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 10.65
+   589s 8.56 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641690887.  142 20 C 36.7 ↑21.2 ↓9.3+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 9.54
+   590s 9.31 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641691889.  142 20 C 33.7 ↑19.5 ↓8.5+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.56
+   591s 8.49 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641692890.  146 20 C 36.9 ↑21.4 ↓9.0+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.70
+   592s 9.02 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641693892.  145 20 C 36.2 ↑21.0 ↓8.7+0.00 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.98
+   593s 8.70 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641694893.  132 20 C 37.2 ↑21.5 ↓8.6+0.00 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 10.09
+   594s 8.64 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641695894.  161 20 C 38.3 ↑22.2 ↓9.0+0.01 iQ 0 iB 20006 rB 0 T 0 D 0 Hthrp 8.42
+   595s 8.96 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641696895.  144 20 C 35.5 ↑20.5 ↓8.3+0.00 iQ 0 iB 20001 rB 0 T 0 D 0 Hthrp 8.97
+   596s 8.28 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641697896.  144 20 C 36.6 ↑21.2 ↓9.1+0.00 iQ 0 iB 20005 rB 0 T 0 D 0 Hthrp 10.09
+   597s 9.10 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641698897.  151 20 C 33.7 ↑19.5 ↓8.2+0.01 iQ 0 iB 20000 rB 0 T 0 D 0 Hthrp 6.98
+   598s 8.16 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641699898.  137 20 C 36.8 ↑21.3 ↓8.8+0.00 iQ 0 iB 20000 rB 0 T 1 D 0 Hthrp 7.30
+   599s 8.80 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641700900.  142 20 C 35.0 ↑20.3 ↓8.5+0.00 iQ 0 iB 20006 rB 0 T 2 D 0 Hthrp 8.56
+   600s 8.50 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641701901.  133 20 C 35.0 ↑20.3 ↓8.4+0.00 iQ 0 iB 20004 rB 0 T 0 D 0 Hthrp 8.41
+   601s 8.36 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641702903.  164 20 C 35.0 ↑20.3 ↓8.8+0.00 iQ 0 iB 20007 rB 0 T 0 D 0 Hthrp 8.70
+   602s 8.77 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641703904.  143 20 C 35.4 ↑20.5 ↓8.0+0.00 iQ 0 iB 20008 rB 0 T 1 D 0 Hthrp 8.98
+   603s 7.98 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641704905.  143 20 C 36.4 ↑21.1 ↓8.8+0.00 iQ 0 iB 20009 rB 0 T 0 D 0 Hthrp 8.97
+   604s 8.79 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641705907.  147 20 C 32.5 ↑18.8 ↓8.0+0.00 iQ 0 iB 20001 rB 0 T 1 D 0 Hthrp 7.86
+   605s 7.97 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641706908.  144 20 C 32.7 ↑18.9 ↓7.9+0.00 iQ 0 iB 20002 rB 0 T 1 D 0 Hthrp 7.50
+   606s 7.86 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641707910.  330 20 C 35.6 ↑20.6 ↓2.4+0.00 iQ 0 iB 20001 rB 0 T 110 D 0 Hthrp 7.85
+   607s 2.44 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641708911.  330 20 C 35.6 ↑20.6 ↓0.0+0.00 iQ 0 iB 20001 rB 0 T 553 D 0 Hthrp 7.85
+   608s 0.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641709912.  330 20 C 35.6 ↑20.6 ↓0.0+0.00 iQ 0 iB 20001 rB 0 T 497 D 0 Hthrp 7.85
+   609s 0.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641710913.  330 20 C 35.6 ↑20.6 ↓0.0+0.00 iQ 0 iB 20001 rB 0 T 556 D 0 Hthrp 7.85
+   610s 0.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641711914.  330 20 C 35.6 ↑20.6 ↓0.0+0.00 iQ 0 iB 20001 rB 0 T 523 D 0 Hthrp 7.85
+   611s 0.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641712915.  330 20 C 35.6 ↑20.6 ↓0.0+0.00 iQ 0 iB 20001 rB 0 T 442 D 0 Hthrp 7.85
+   612s 0.00 Mbits/sec receiver
+  update@  ikcp.cpp 1979| 1641713916.  330 20 C 35.6 ↑20.6 ↓0.0+0.00 iQ 0 iB 20001 rB 0 T 592 D 0 Hthrp 7.85
+   613s 0.00 Mbits/sec receiver
