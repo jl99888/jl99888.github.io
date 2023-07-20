@@ -26,11 +26,11 @@ Will be published soon.
 
 ## Slides
 
-Will be published soon.
-
 <!--
-[[slides]](./LEOTP_ICDCS_pre.pdf)
+Will be published soon.
 -->
+
+[[slides]](./LEOTP_ICDCS_pre.pdf)
 
 ## Figures
 
